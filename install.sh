@@ -4,7 +4,7 @@ set -o errexit
 set -o errtrace
 set -o nounset
 set -o pipefail
-#set -o xtrace
+set -o xtrace
 
 SECURE_FIRST_LOGIN="false"
 NO_AUTO_UPDATE="false"
